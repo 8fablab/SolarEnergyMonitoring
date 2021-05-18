@@ -1,6 +1,6 @@
 # SolarEnergyMonitoring
 
-This project aims at monitoring a solar panel battery charge using a MPPT VE 75I10 charger and an Arduino MEga 2560 and some peripherals as a SD Card logger and an RTC.
+This project aims at monitoring a solar panel battery charge using a MPPT VE 75I10 charger and an Arduino Mega 2560 and some peripherals as a SD Card logger and an RTC.
 
 It log the data read from the MPPT every 5mns and maintains a state of charge indicator through load current integration.
 It also as the ability to discharge the battery through a resistor network until a certain SOC is reached.
